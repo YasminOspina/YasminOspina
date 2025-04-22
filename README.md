@@ -7,5 +7,6 @@ I'm determined to software development and continuous learning, I enjoy taking o
 - 🧠 I'm learning HTML, CSS, JavaScript and React in FrontEnd
 - 🧠 I'm learning Java and .Net in Backend
 - 🔭 I'm not currently working 
-- 📫 How to reach me: yasminob244@gmail.com 
+- 📫 How to reach me: yasminob244@gmail.com
+- 🌐 Check out my portfolio: www.yasmindev.com 
 
